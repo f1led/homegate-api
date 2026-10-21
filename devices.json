@@ -1,0 +1,10 @@
+[
+  {"id":1,"emoji":"💡","name":"Умные лампы гостиной","category":"Освещение","ip":"192.168.1.21","online":true,"trafficMbDay":12,"powerW":18,"description":"Группа из 4 ламп. Регулировка яркости и сценарии освещения."},
+  {"id":2,"emoji":"🌡️","name":"Термостат","category":"Климат","ip":"192.168.1.22","online":true,"trafficMbDay":25,"powerW":35,"description":"Поддерживает заданную температуру в доме по расписанию."},
+  {"id":3,"emoji":"❄️","name":"Кондиционер спальни","category":"Климат","ip":"192.168.1.23","online":true,"trafficMbDay":40,"powerW":850,"description":"Охлаждение и осушение воздуха, управление через шлюз."},
+  {"id":4,"emoji":"📹","name":"Камера у входа","category":"Безопасность","ip":"192.168.1.31","online":true,"trafficMbDay":4200,"powerW":6,"description":"Видеонаблюдение за входом, запись по движению."},
+  {"id":5,"emoji":"🔒","name":"Умный замок","category":"Безопасность","ip":"192.168.1.32","online":true,"trafficMbDay":3,"powerW":2,"description":"Открывает дверь по коду или с телефона, ведёт журнал входов."},
+  {"id":6,"emoji":"📹","name":"Камера во дворе","category":"Безопасность","ip":"192.168.1.33","online":false,"trafficMbDay":3900,"powerW":7,"description":"Обзор двора и парковки. Сейчас нет связи со шлюзом."},
+  {"id":7,"emoji":"🔌","name":"Розетка бойлера","category":"Энергия","ip":"192.168.1.41","online":true,"trafficMbDay":8,"powerW":1500,"description":"Включает бойлер по расписанию, считает потребление."},
+  {"id":8,"emoji":"☀️","name":"Солнечный инвертор","category":"Энергия","ip":"192.168.1.42","online":false,"trafficMbDay":30,"powerW":120,"description":"Преобразует энергию панелей. Сейчас не отвечает."}
+]
